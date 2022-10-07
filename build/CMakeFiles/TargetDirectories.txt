@@ -1,0 +1,3 @@
+C:/OpenCVProjects/ArucoMarkers/build/CMakeFiles/CameraCalibration.dir
+C:/OpenCVProjects/ArucoMarkers/build/CMakeFiles/edit_cache.dir
+C:/OpenCVProjects/ArucoMarkers/build/CMakeFiles/rebuild_cache.dir

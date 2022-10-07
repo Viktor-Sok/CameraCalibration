@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/OpenCVProjects/ArucoMarkers/build",
+  "command": "C:\\Dev\\mingw64_winlibs\\bin\\g++.exe  @CMakeFiles/CameraCalibration.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CameraCalibration.dir\\main.cpp.obj -c C:\\OpenCVProjects\\ArucoMarkers\\main.cpp",
+  "file": "C:/OpenCVProjects/ArucoMarkers/main.cpp"
+}
+]
